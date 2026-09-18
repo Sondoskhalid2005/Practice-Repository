@@ -75,7 +75,7 @@ your PR show?**
 **9. What's one thing about this workflow that surprised you, confused you,
 or felt different from what you expected going in?**
 
-no i just made the pr for main branch at first, but then i made for the new branch .
+no i just made the pr for main branch at first, but then i made for the new branch and closed the previous pr .
 
 **10. If a teammate asked you to explain the difference between `fork`,
 `clone`, `origin`, and `upstream` in one or two sentences each, what would
