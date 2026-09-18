@@ -75,10 +75,10 @@ your PR show?**
 **9. What's one thing about this workflow that surprised you, confused you,
 or felt different from what you expected going in?**
 
-nothing but was fun trying my first pr and fork
+no i just made the pr for main branch at first, but then i made for the new branch .
 
 **10. If a teammate asked you to explain the difference between `fork`,
 `clone`, `origin`, and `upstream` in one or two sentences each, what would
 you say?**
 
-fork is a copy ofa repo into my account , clone is bringing a repo localy in my device , origin is the remote repo i cloned ,upstream is the central repo i forked .
+fork is a copy of a repo into my account , clone is bringing a repo localy in my device , origin is the remote repo i cloned ,upstream is the central repo i forked .
