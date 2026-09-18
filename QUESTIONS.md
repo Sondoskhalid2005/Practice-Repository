@@ -67,7 +67,8 @@ i solved by combining them, because its another developer work and it had no log
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-
+https://github.com/IbrahimYasserM/Practice-Repository/pull/12
+7 commits & 2 files changed
 ---
 
 ## Part 6 — Final reflection
